@@ -1,1 +1,1 @@
-# 365-Entertainment
+# Dice game
